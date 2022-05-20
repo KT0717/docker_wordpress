@@ -6,7 +6,7 @@ docker-compose up -d
 ```
 #### docker停止
 ```
-docker-comopose down
+docker-compose down
 ```
 #### docker内操作
 ```
