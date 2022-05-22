@@ -1,5 +1,4 @@
 ### docker_wordpress
-
 #### docker起動
 ```
 docker-compose up -d
@@ -12,3 +11,5 @@ docker-compose down
 ```
 docker-compose exec wordpress bash
 ```
+#### Local URL
+http://localhost:8000/wp-admin/
